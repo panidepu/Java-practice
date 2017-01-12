@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;apples.main().a&apos; in &apos;apples.main()&apos; to field&#x0D;&#x0A;- Original project: &apos;sample&apos;&#x0D;&#x0A;- Original element: &apos;apples.main().a&apos;&#x0D;&#x0A;- Field name: &apos;a&apos;&#x0D;&#x0A;- Initialize field in method&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;a&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;{sample.java" name="a" selection="97 26" stamp="1449228081083" static="true" version="1.0" visibility="2"/>
+</session>
